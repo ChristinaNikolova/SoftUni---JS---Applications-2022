@@ -1,0 +1,1 @@
+For every problem, please run in the terminal npm-install
